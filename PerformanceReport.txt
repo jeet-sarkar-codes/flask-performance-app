@@ -1,0 +1,9 @@
+Flask App Performance Test – Manual Load Test
+----------------------------------------------
+Tested 2 endpoints using manual browser refresh.
+
+Simulated 10, 50, and 100 users via tab refresh and multiple device hits.
+
+Average response time: <200ms (observed via Chrome Dev Tools)
+
+Conclusion: Stable performance observed under light-to-medium simulated load.
