@@ -1,4 +1,4 @@
-# Flask Performance API
+# Flask Performance App
 
 This is a simple Python Flask API project created to demonstrate basic backend development and performance awareness. The application consists of two endpoints and is manually tested for simulated load.
 
